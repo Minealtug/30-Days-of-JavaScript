@@ -1,3 +1,3 @@
 ﻿# 30-Days-of-JavaScript
  
- ﻿### Gitbook Notları linki ;
+ ### Gitbook Notları linki ;
